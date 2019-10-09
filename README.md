@@ -1,4 +1,4 @@
-# Colorization Of Black and white image to color
+# Colorization Of Black and White image to color
 ### How To Get Required Modules ?
 ### Linux
 wget https://github.com/richzhang/colorization/blob/master/colorization/resources/pts_in_hull.npy?raw=true -O ./pts_in_hull.npy
